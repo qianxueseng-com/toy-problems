@@ -12,7 +12,7 @@ Interview prep
 - 做完一题后Pull request到相应题目的文件夹，大家互相学习
 
 ### 个人代码命名方式
-- 为了解决文件名冲突和日后统计，请按这个格式命名 <yourname.js>，如1-nim-game/vickymin.js
+- 为了解决文件名冲突和日后统计，请按这个格式命名`yourname.js`，如`1-nim-game/vickymin.js`
 
 ### Pull request方法
 - fork这个repo，看见右上方的fork按钮了吗？点它
