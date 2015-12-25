@@ -9,6 +9,24 @@ var canWinNim_1 = function(n) {
 
 var canWinNim_2 = function(n) {
 	// 方法二：位运算求余
-	// 按理说位运算应该快一点，但实际用时反而慢了一点...
     return !!(n & 0x3);
 };
+
+
+// 本机测试运行时间
+var start, end;
+var count = 90000000;
+
+start = new Date();
+for (var i = 0; i < count; i++) {
+	canWinNim_1(i);
+};
+end  = new Date();
+console.log('canWinNim_1: '+ (end - start));
+
+start = new Date();
+for (var i = 0; i < count; i++) {
+	canWinNim_2(i);
+};
+end  = new Date();
+console.log('canWinNim_2: '+ (end - start));
