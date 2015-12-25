@@ -1,0 +1,1 @@
+- [127-powx-n](https://leetcode.com/problems/powx-n/)

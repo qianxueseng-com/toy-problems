@@ -1,0 +1,1 @@
+- [109-super-ugly-number](https://leetcode.com/problems/super-ugly-number/)

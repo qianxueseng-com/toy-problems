@@ -1,0 +1,1 @@
+- [37-ugly-number](https://leetcode.com/problems/ugly-number/)

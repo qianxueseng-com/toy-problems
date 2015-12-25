@@ -1,0 +1,1 @@
+- [141-bulls-and-cows](https://leetcode.com/problems/bulls-and-cows/)
