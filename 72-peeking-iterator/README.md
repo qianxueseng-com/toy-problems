@@ -1,1 +1,0 @@
-- [72-peeking-iterator](https://leetcode.com/problems/peeking-iterator/)

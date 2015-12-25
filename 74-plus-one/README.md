@@ -1,1 +1,0 @@
-- [74-plus-one](https://leetcode.com/problems/plus-one/)

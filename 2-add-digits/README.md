@@ -1,1 +1,0 @@
-- [2-add-digits](https://leetcode.com/problems/add-digits/)

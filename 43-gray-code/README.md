@@ -1,1 +1,0 @@
-- [43-gray-code](https://leetcode.com/problems/gray-code/)
