@@ -37,7 +37,7 @@ var addDigits_2 = function(num) {
 
 // 最有效的写法
 var addDigits_3 = function(num) {
-    return num % 9 == 0 && num!==0 ? 9 : num % 9;
+    return num % 9 === 0 && num !== 0 ? 9 : num % 9;
 }
 
 /*-----------本机测试运行时间-----------*/
