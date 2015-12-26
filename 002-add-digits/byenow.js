@@ -7,8 +7,7 @@ var addDigits = function(num) {
         var minNum=0;
         var arr=num.toString().split("");
         for(var i=0,len=arr.length;i<len;i++){
-            var newNum=parseInt(arr[i]);
-            minNum+=newNum;
+            minNum+=parseInt(arr[i]);
         }
         num=minNum;
     }
