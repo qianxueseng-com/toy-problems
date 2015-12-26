@@ -26,7 +26,7 @@ var singleNumber_2 = function(nums) {
     });
 };
 
-// 空间换时间，超时
+// 超时了
 var singleNumber_3 = function (nums) {
 	var temp = [], site;
 	nums.forEach(function (v, i, a) {
